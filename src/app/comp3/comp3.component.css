@@ -1,0 +1,29 @@
+.container{
+    height:750px;
+    width:30%;
+    margin-left: 40px;
+    float:left;
+    background-color:aliceblue;
+    overflow: hidden;
+}
+.container1{
+    
+    border-radius: 15cm;
+    height:400px;
+    width:400px;
+    margin-left: 120px;
+    
+}
+h1{
+    display: inline;
+}
+.but{
+    background-color:orange;
+    height: 30px;
+    width:200px;
+    margin-left:30%;
+    margin-block-end: auto;
+    border:none;
+    border-radius: 5px;
+    margin-top: 100px;
+}
